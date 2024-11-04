@@ -1,0 +1,2 @@
+# Building-a-Personalized-Music-Recommendation-System-Enhancing-User-Engagement
+The objective of this project is to design and implement a Music Recommendation System that offers personalized music suggestions to users by analyzing their listening behaviors and preferences. Leveraging the Spotify API, the system will provide highly relevant recommendations, helping users discover new music that aligns with their tastes.
